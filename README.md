@@ -10,7 +10,7 @@ I'm a self-taught full-stack developer from India, passionate about building rea
        alt="snake" /></a>
 </div>
 
-👨‍💻 Software Engineer | 🚀 Node.js Developer | 💻 JavaScript Enthusiast | 🌐 AI-ML
+👨‍💻 Software Engineer | 🚀 Full-stack developer | 💻 JavaScript Enthusiast | 🌐 AI-ML
 
 
 
