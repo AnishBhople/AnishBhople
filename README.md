@@ -10,21 +10,40 @@ I'm a self-taught full-stack developer from India, passionate about building rea
        alt="snake" /></a>
 </div>
 
+👨‍💻 Software Engineer | 🚀 Node.js Developer | 💻 JavaScript Enthusiast | 🌐 AI-ML
+
+
 
 ---
 
 ### 👨🏻‍💻 Languages and Tools
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<p align="left">
+<img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif " />
+  
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <br>
+
+<img align="left" alt="tableau" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" />
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p> <br>
 
 ---
+### 📲 Let's connect
+- LinkedIn <a href="https://www.linkedin.com/in/anish-bhople-01ab24190/" target="blank">🔗</a><br>
+- Instagram <a href="https://www.instagram.com/anish.bhople/?igsh=MjJnczFhbXc3M2k%253D&utm_source=qr%0A" target="blank">🔗</a><br>
+
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-%20Gmail-red?style=flat&logo=gmail)](mailto:anishbhople123@gmail.com)
+
+I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about creating awesome things with code
+
+![js-bg](https://github.com/NikosDev/NikosDev/assets/16862640/a82f84ab-20c3-4bda-890e-77423bc09dea)
+
+
+
 
