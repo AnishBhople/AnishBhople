@@ -17,6 +17,7 @@ I'm a self-taught full-stack developer from India, passionate about building rea
 ---
 
 ### 👨🏻‍💻 Languages and Tools
+
 <p align="left">
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif " />
   
@@ -31,8 +32,10 @@ I'm a self-taught full-stack developer from India, passionate about building rea
 
 <img align="left" alt="tableau" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" />
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p> <br>
+</p>
+
 ---
+
 ### 📲 Let's connect
 - LinkedIn <a href="https://www.linkedin.com/in/anish-bhople-01ab24190/" target="blank">🔗</a><br>
 - Instagram <a href="https://www.instagram.com/anish.bhople/?igsh=MjJnczFhbXc3M2k%253D&utm_source=qr%0A" target="blank">🔗</a><br>
